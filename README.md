@@ -1,3 +1,4 @@
-# Git_test
+test
 
-Readme: test collabration with two different github user
+
+Readme: test collabration with two different github users
